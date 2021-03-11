@@ -32,5 +32,4 @@ void loop() {
   Serial.print(F("%  Temperature: "));
   Serial.print(t);
   Serial.print(F("°C "));
-  Serial.print(f);
 }
