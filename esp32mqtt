@@ -5,8 +5,8 @@
 #include "DHT.h"
 
 /* change it with your ssid-password */
-const char* ssid = "SKTV-WIFI";
-const char* password = "samoilenkoo";
+const char* ssid = "****";
+const char* password = "****";
 /* mqtt broker host */
 const char* mqtt_server = "broker.mqttdashboard.com";
 
